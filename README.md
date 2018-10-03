@@ -2,8 +2,8 @@
 Codebase for Creative Coding HKB 2018
 
 
-https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old-640x487.jpg
-https://www.extrasys.it/hubfs/Blog%20images/big-old-computer.jpg?t=1533224244898
+![image] https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old-640x487.jpg
+![image] https://www.extrasys.it/hubfs/Blog%20images/big-old-computer.jpg?t=1533224244898
 
 Wie sieht warten aus?
 Elektrische Entladungen, Bilderfetzen, Glitches, Standbyanzeigen, Loadergifs und Animationsloops.
@@ -17,7 +17,7 @@ In ca 2 Minuten das Werk der Klasse vorstellen, dabei ungefähr folgendes beantw
 
 - Wer / Wo / Wann
 - Was / Wie
-- Wieso habt ihr das gewählt? Was genau interessiert euch daran?  
+- Wieso habt ihr das gewählt? Was genau interessiert euch daran?
 
 
 
