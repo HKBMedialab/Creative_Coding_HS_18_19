@@ -1,10 +1,6 @@
 # Standby
 Codebase for Creative Coding HKB 2018
 
-![Imgur Image] (https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old-640x487.jpg)
-
-![Imgur Image] (https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old-640x487.jpg)
-https://www.extrasys.it/hubfs/Blog%20images/big-old-computer.jpg?t=1533224244898
 ![Imgur](https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old-640x487.jpg)
 
 
