@@ -30,7 +30,8 @@ void draw() {
   //background(255);
   float dx=targetWidth-rectWidth;
   rectWidth+=dx*easing;
-  
+  println(dx+" "+targetWidth);
+
   if (abs(dx)<1) {
     if (targetWidth==500) {
       targetWidth=0;

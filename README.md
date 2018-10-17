@@ -2,8 +2,12 @@
 Codebase for Creative Coding HKB 2018
 
 
-![image] https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old-640x487.jpg
-![image] https://www.extrasys.it/hubfs/Blog%20images/big-old-computer.jpg?t=1533224244898
+![Imgur Image]https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old-640x487.jpg
+https://www.extrasys.it/hubfs/Blog%20images/big-old-computer.jpg?t=1533224244898
+
+
+![Gif](https://78.media.tumblr.com/b2df174e35277526990f54c476e9da0b/tumblr_opv7vg0gqG1r2geqjo1_500.gif)
+(bild: beesandbombs)
 
 Wie sieht warten aus?
 Elektrische Entladungen, Bilderfetzen, Glitches, Standbyanzeigen, Loadergifs und Animationsloops.
