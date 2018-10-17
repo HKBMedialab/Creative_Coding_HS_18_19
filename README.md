@@ -2,8 +2,9 @@
 Codebase for Creative Coding HKB 2018
 
 
-![Imgur Image]https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old-640x487.jpg
+![Imgur Image] (https://www.extremetech.com/wp-content/uploads/2012/11/harwell-witch-computer-old-640x487.jpg)
 https://www.extrasys.it/hubfs/Blog%20images/big-old-computer.jpg?t=1533224244898
+![Imgur](http://i.imgur.com/zTONrOD.jpg)
 
 
 ![Gif](https://78.media.tumblr.com/b2df174e35277526990f54c476e9da0b/tumblr_opv7vg0gqG1r2geqjo1_500.gif)
