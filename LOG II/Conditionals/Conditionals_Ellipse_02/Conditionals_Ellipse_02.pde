@@ -13,7 +13,7 @@ void draw() {
   stroke(mycolor,100);
   ellipse(mouseX, mouseY, ellipseWidth, ellipseWidth);
 
-  //ellipseWidth+=diff;
+  ellipseWidth+=diff;
   if (ellipseWidth>width) {
     diff*=-1;
   }
