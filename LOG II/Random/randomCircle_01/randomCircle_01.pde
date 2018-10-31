@@ -14,5 +14,5 @@ void draw() {
   ellipse(width/2+random(-offset, offset), height/2+random(-offset, offset), 200, 200);
   stroke(255, 255, 0);
   ellipse(width/2+random(-offset, offset), height/2+random(-offset, offset), 200, 200);
-  //filter(BLUR, 1);
+  filter(BLUR, 1);
 }
