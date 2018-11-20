@@ -22,6 +22,7 @@ void draw() {
   
   if (colorangle>360) {
     colorangle=0;
+    background(0);
   }
 
 }

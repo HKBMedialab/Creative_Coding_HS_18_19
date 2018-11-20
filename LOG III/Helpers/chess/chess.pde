@@ -23,5 +23,11 @@ void draw() {
     positionY+=rectWidth;
     fill=!fill;
   }
+  
   fill=!fill;
+
+  if (positionY>height-rectWidth) {
+    positionY=0;
+    fill=!fill;
+  }
 }
